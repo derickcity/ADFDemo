@@ -1,0 +1,6 @@
+{
+	"name": "DerickintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

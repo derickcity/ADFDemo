@@ -1,0 +1,9 @@
+{
+	"name": "DerickFactory",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e591e5a-c30b-4957-b7ea-16bc3a674981",
+		"tenantId": "c4659083-f31c-4ce7-8b5d-36474606a97a"
+	}
+}
